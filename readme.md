@@ -7,11 +7,11 @@
 *MVC 							  [x]*
 *Addon for printout [x]*
 
-#Q : Missing Component ?
-*A : Of course is missing, contact me on trieputra@live.com to get some missing component*
+# Q : Missing Component ?
+* A : Of course is missing, contact me on trieputra@live.com to get some missing component*
 
-#Q : Where is database ?
-*A	: On the cloud... naah just kidding.. contact me on email above*
+# Q : Where is database ?
+* A	: On the cloud... naah just kidding.. contact me on email above*
 
-#Demo
+# Demo
 *http://rehatkopi32.rf.gd*
