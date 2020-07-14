@@ -1,11 +1,11 @@
 # Reservasi Cafe untuk Zia Syifa
-*Desktop view       [x]*
-*Mobile View        [x]*
-*Animation          [x]*
-*Framework PHP      [ ]*
-*Email Intergration [x]*
-*MVC 							  [x]*
-*Addon for printout [x]*
+* Desktop view       [x]*
+* Mobile View        [x]*
+* Animation          [x]*
+* Framework PHP      [ ]*
+* Email Intergration [x]*
+* MVC 							 [x]*
+* Addon for printout [x]*
 
 # Q : Missing Component ?
 * A : Of course is missing, contact me on trieputra@live.com to get some missing component*
